@@ -3,19 +3,16 @@
 
 ---
 
-### 🔭 Focus Areas
-- **Language Design (`NotP`):** Developing a minimalist, interpreted language in Python to master compiler theory and runtime fundamentals.
-- **AI Narratives (`hoie-ai`):** Prototyping an AI-powered interactive fiction engine using Python and the Gemini API.
-- **Desktop Applications (`SPG`):** Building functional GUI tools with Python and Tkinter.
+### 💬 About Me
+I am a developer with a deep focus on Python and the Godot Engine. My core passion lies in designing and building systems from the ground up. My portfolio includes a wide range of projects, from developing a minimalist programming language to understand compiler theory, to prototyping AI-powered interactive narratives and shipping multiple games. I thrive on solving complex technical challenges and turning ambitious ideas into functional software.
 
-### 🛠️ Toolkit
-- **Languages:** Python, GDScript, C# (Basics), HTML, CSS
-- **Frameworks & Engines:** Godot Engine, Tkinter
-- **Technologies:** Git, GitHub, Linux, API Integration, Prompt Engineering
+### 🛠️ Core Competencies
+*   **Systems Programming & Language Design:** Building interpreters, parsers, and ASTs from scratch.
+*   **AI Integration & Prototyping:** Engineering AI-powered applications by integrating generative APIs like Google Gemini.
+*   **Full-Stack Game Development:** Managing the complete development cycle in the Godot Engine, from level design to release.
+*   **Desktop Application Development:** Building standalone GUI applications with Python and Tkinter.
 
-### 🔬 Research & Publications
-- *Analysis and optimization of cognitive processes in modern higher education (Link In Progress)*
-
-### 🔗 Links
-- **My Games:** [itch.io/leleleonid](https://leleleonid.itch.io/)
-- **My Resume:** [Google Drive](https://drive.google.com/file/d/19IsXd0aShSLyAwnQ0UC7MuqrptqTeCV3/view?usp=sharing)
+### 🔗 Connect & Explore
+*   **My Games:** Explore all shipped projects on **[itch.io](https://leleleonid.itch.io/)** and **[Game Jolt](https://gamejolt.com/@leleleonid)**.
+*   **My Professional Profile:** View my full experience on **[LinkedIn](https://www.linkedin.com/in/leleleonid/)**.
+*   **My Resume:** Download my resume from **[Google Drive](https://drive.google.com/file/d/19IsXd0aShSLyAwnQ0UC7MuqrptqTeCV3/view?usp=sharing)**.
